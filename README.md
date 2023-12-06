@@ -1,3 +1,4 @@
+
 # Group 2 MIST 4610 Project 2
 
 ## Team name
@@ -42,7 +43,9 @@ Is there a relationship between major cities in Maryland and personal injury rat
 Importance:
 This question is important to ask because the results can be used by EMS. By knowing where the geographic hotspots of injuries are, EMS know where to set up hospitals and where to have medical services stationed for the quickest possible response. Our initial hypothesis going in was that the hotspots would look extremely similar to a population chart, with cities with the most population having the most personal injuries in accidents. We thought that in particular, cities close to the DC/Marland border would have the most personal injuries. In order to measure for this, we first filtered by both the personal injury and accident column being “Yes”, as we only want results that are both an accident and result in a personal injury. We also limited the results to the state of Maryland. We took a count of personal injury and did a percentage of total quick table calculation in order to get a percentage of the total injuries from Maryland in each city.
 
-Our results were interesting. On one hand, our initial hypothesis seemed to be mostly correct. We see three main hotspots on the border of DC and Maryland, consisting of around 40% of the total injuries. This would be an excellent place to focus medical attention. One thing that surprised us is we noticed a hotspot with 31.03% of personal injuries coming from a town called Germantown. This is extremely valuable information for EMS because it tells them that even though Germantown isn’t on the DC/Maryland border, it is a place that needs heavy medical attention. We wanted to get a better visualization of how many personal injuries in Germantown compared to the rest of the cities, so we created a pi chart. 
+Our results were interesting. On one hand, our initial hypothesis seemed to be mostly correct. We see three main hotspots on the border of DC and Maryland, consisting of around 40% of the total injuries. This would be an excellent place to focus medical attention. One thing that surprised us is we noticed a hotspot with 31.03% of personal injuries coming from a town called Germantown. This is extremely valuable information for EMS because it tells them that even though Germantown isn’t on the DC/Maryland border, it is a place that needs heavy medical attention. We wanted to get a better visualization of how many personal injuries in Germantown compared to the rest of the cities, so we created a pie chart. 
+![1](https://github.com/justingoldman25/marylandtrafficviolations/assets/131189846/1689d6b5-b141-466b-89b1-2ffeab4527ad)
+
 
 ## Question 2:
 
