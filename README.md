@@ -78,5 +78,4 @@ Our data set did not need any manipulations for it to be utilized. However, sinc
 
 
 ## Tableau packaged workbook
-The packaged workbook containing the visualizations shown above is attached to this repository.
-
+The packaged workbook containing the visualizations are attached to the ELC Assignment.
